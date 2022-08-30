@@ -1,4 +1,4 @@
-# BUS 18 - Spring 2019 #
+# BUS 18 - Fall 2022 #
 
 ### What is this repository for? ###
 
